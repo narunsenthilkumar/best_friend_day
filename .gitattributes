@@ -1,0 +1,12 @@
+# Ensure consistent text handling
+* text=auto
+
+# Treat HTML files as text
+*.html text
+
+# Set default behavior for binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
